@@ -1,6 +1,6 @@
 # My Cool Learning Journal
-Today I learned about growth mindset in a nutshell, growth mindset is a continual process throughout life. In a world where things are always evolving you must continue to seek knowledge.
 
+December 9, 2019 - First day of class kicked off with an introduction of the instructor Brian Nations. Then, we each class member gave an introduction stating their name, background, why they chose code fellows, and a brief fun fact about themselves. I learned about growth mindset in a nutshell, growth mindset is a continual process throughout life. In a world where things are always evolving you must continue to seek knowledge.
 
 ## Markdown
 
