@@ -1,5 +1,5 @@
 # My Cool Learning Journal
-Today I learned about growth mindset in a nutshell, growth mindset is a continual process throughout life. In a world where things are always evoling you must continue to seek knowledge.
+Today I learned about growth mindset in a nutshell, growth mindset is a continual process throughout life. In a world where things are always evolving you must continue to seek knowledge.
 
 
 ## Markdown
