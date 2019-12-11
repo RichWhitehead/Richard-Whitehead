@@ -10,6 +10,20 @@ December 9, 2019 - First day of class kicked off with an introduction of the ins
 
 **3. Professional Compentency Assessment**
 
+### Day 2
+
+December 10, 2019 - Today was all about computer configuration and just about all the class time was needed to complete this task. We installed all applicable applications that will assist us in code writing in the near future. Key learning objectives are below:
+
+**1. Computer congfigurartion (installing apps)
+     - visual studio code 
+     - git 
+     - node 
+     - npm 
+     - eslint 
+     - tree**
+
+
+
 
 ## Markdown
 
