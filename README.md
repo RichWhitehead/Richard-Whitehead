@@ -22,7 +22,7 @@ December 10, 2019 - Today was all about computer configuration and just about al
      - eslint 
      - tree**
      
-**2. Professional reading assignment "The Coders Computer"
+**2. Professional reading assignment "The Coders Computer"**
 
 
 
