@@ -6,6 +6,8 @@ December 9, 2019 - First day of class kicked off with an introduction of the ins
 
 **2. Markdown - a lightweight and easy to use syntax for styling your writing** 
 
+**3. Professional Compentency Assessment**
+
 
 ## Markdown
 
