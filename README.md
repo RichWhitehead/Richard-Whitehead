@@ -1,8 +1,8 @@
-## My Cool Learning Journal
-I learned about growth mindset today! It was cool!
+# My Cool Learning Journal
+Today I learned about growth mindset in a nutshell, growth mindset is a continual process throughout life. In a world where things are always evoling you must continue to seek knowledge.
 
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
