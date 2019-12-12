@@ -22,6 +22,7 @@ December 10, 2019 - Today was all about computer configuration and just about al
      - eslint 
      - tree**
      
+December 11, 2019 Today we learned about Git and Github and the diferences of the two. Git is the local which is located on within the individual computer/laptop and Github lives within the cloudand is an online management system.
 **2. Professional reading assignment "The Coders Computer"**
 
 
